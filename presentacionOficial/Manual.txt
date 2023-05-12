@@ -1,0 +1,7 @@
+Para ingresar a la opcion admin:
+
+Usuario: admin
+Password: admin123.
+
+
+Desarrollado Grupo EVA: FastLearnining 
